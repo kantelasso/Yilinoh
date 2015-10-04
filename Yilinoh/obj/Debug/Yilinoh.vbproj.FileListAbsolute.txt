@@ -1,0 +1,15 @@
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\Yilinoh.Form1.resources
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\Yilinoh.Resources.resources
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\Yilinoh.vbproj.GenerateResource.Cache
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\bin\Debug\ߦߟߌߣߐ.exe.config
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\bin\Debug\ߦߟߌߣߐ.exe.manifest
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\bin\Debug\ߦߟߌߣߐ.application
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\bin\Debug\ߦߟߌߣߐ.exe
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\bin\Debug\ߦߟߌߣߐ.pdb
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\bin\Debug\ߦߟߌߣߐ.xml
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.TrustInfo.xml
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.exe.manifest
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.application
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.exe
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.xml
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.pdb
