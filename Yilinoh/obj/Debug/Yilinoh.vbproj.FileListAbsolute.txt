@@ -13,3 +13,7 @@ D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.application
 D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.exe
 D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.xml
 D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.pdb
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\bin\Debug\ߦߟߌߣߐ.exe.config
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.exe
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.xml
+D:\Dropbox\MyLogitheque\Yilinoh\Yilinoh\obj\Debug\ߦߟߌߣߐ.pdb
